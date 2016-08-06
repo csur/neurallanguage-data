@@ -6,5 +6,6 @@ dataset for neural language research
 - TED-Multilingual-Parallel-Corpus [[Github](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus)]
 - WikiTableQuestions: a Complex Real-World Question Understanding Dataset [[link](http://nlp.stanford.edu/blog/wikitablequestions-a-complex-real-world-question-understanding-dataset/)]
 - LDC Corpus [[link](https://catalog.ldc.upenn.edu/)]
+ - [[AMR](https://catalog.ldc.upenn.edu/LDC2014T12 )]
+ - [[Avocado](https://catalog.ldc.upenn.edu/LDC2015T03)]
 - Datasets for single-label text categorization [[link](http://ana.cachopo.org/datasets-for-single-label-text-categorization)]
-
