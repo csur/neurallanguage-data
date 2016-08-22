@@ -9,3 +9,4 @@ dataset for neural language research
  - [[AMR](https://catalog.ldc.upenn.edu/LDC2014T12 )]
  - [[Avocado](https://catalog.ldc.upenn.edu/LDC2015T03)]
 - Datasets for single-label text categorization [[link](http://ana.cachopo.org/datasets-for-single-label-text-categorization)]
+- Kaggle Dataset [[link](https://www.kaggle.com/datasets)]
