@@ -11,3 +11,4 @@ dataset for neural language research
 - Datasets for single-label text categorization [[link](http://ana.cachopo.org/datasets-for-single-label-text-categorization)]
 - Kaggle Dataset [[link](https://www.kaggle.com/datasets)]
 - YouTube-8M: A Large and Diverse Labeled Video Dataset for Video Understanding Research [[link](https://research.googleblog.com/2016/09/announcing-youtube-8m-large-and-diverse.html)]
+- AI2 Dataset [[linke](http://allenai.org/data.html)]
